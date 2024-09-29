@@ -14,7 +14,23 @@ article{
     overflow-y: auto;
 }
 
+p{
+
+    background-color: greenyellow;
+    width: 400px;
+    padding: 10px;
+
+}
+
 aside{
     flex: 1;
     overflow-y: auto;
+}
+
+img{
+    display: flex;
+    width: 120px;
+    height: 120px;
+    background-color: skyblue;
+    border-radius: 50%;
 }
